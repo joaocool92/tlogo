@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="105.834mm" height="105.833mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 10100 10100"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="CIRCULO">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#333647" fill-rule="nonzero" d="M8621 1479c-986,-986 -2278,-1479 -3570,-1479l-2 0c-1292,0 -2584,493 -3570,1479 -986,986 -1479,2279 -1479,3571 0,1293 493,2585 1479,3571 986,986 2279,1479 3571,1479 1293,0 2585,-493 3571,-1479 1972,-1972 1972,-5170 0,-7142z"/>
+ </g>
+ <g id="FOGUETE">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path fill="white" fill-rule="nonzero" d="M4812 8145l-238 -238 952 -952 -238 -238 -714 714 -238 -238 1190 -1191 -238 -238 -2142 2143 -238 -238 1190 -1190 -238 -238 -714 714 -238 -238 1904 -1905 -238 -238 -2381 2381 -238 -238 1667 -1667 -238 -238 -1191 1190 -238 -238 953 -952 -238 -238 -477 476 -238 -238 1191 -1190 1190 238 952 -952c0,0 953,-953 2738,-1072 -119,1786 -1071,2738 -1071,2738l-953 952 239 1191 -1429 1428zm1548 -4642c-132,-132 -132,-345 0,-476 131,-132 344,-132 476,0 131,131 131,344 0,476 -132,131 -345,131 -476,0zm714 -714c-263,-263 -690,-263 -952,0 -263,262 -263,689 0,952 262,263 689,263 952,0 263,-263 263,-690 0,-952z"/>
+ </g>
+ <g id="FUMACA">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <polygon fill="white" fill-rule="nonzero" points="1003,6241 765,6002 1003,5764 1241,6002 "/>
+  <polygon fill="white" fill-rule="nonzero" points="1479,5764 1241,5526 1717,5050 1955,5288 "/>
+  <polygon fill="white" fill-rule="nonzero" points="1717,6479 1479,6241 1717,6002 1955,6241 "/>
+  <polygon fill="white" fill-rule="nonzero" points="1717,7431 1479,7193 1717,6955 1955,7193 "/>
+  <polygon fill="white" fill-rule="nonzero" points="1955,8145 1717,7907 1955,7669 2193,7907 "/>
+  <polygon fill="white" fill-rule="nonzero" points="2431,7669 2193,7431 2670,6955 2908,7193 "/>
+  <polygon fill="white" fill-rule="nonzero" points="2670,8383 2431,8145 2670,7907 2908,8145 "/>
+  <polygon fill="white" fill-rule="nonzero" points="3384,8621 3146,8383 3384,8145 3622,8383 "/>
+  <polygon fill="white" fill-rule="nonzero" points="3860,8145 3622,7907 4098,7431 4336,7669 "/>
+  <polygon fill="white" fill-rule="nonzero" points="4336,8621 4098,8383 4336,8145 4574,8383 "/>
+ </g>
+</svg>
